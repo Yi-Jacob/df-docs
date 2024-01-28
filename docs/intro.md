@@ -11,4 +11,3 @@ To get started, explore the sidebar on the left to find the topics that interest
 Let's dive in and unlock the full potential of DreamFactory!
 
 
-slug: /
